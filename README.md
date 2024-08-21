@@ -7,6 +7,7 @@
 - birdmaen89@gmail.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: soccer, karate and all about programming (Javascript, CSS, HTML and React)
+
 ´´´
 <!---
 parispeterson89-ops/parispeterson89-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
