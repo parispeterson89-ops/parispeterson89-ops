@@ -17,7 +17,9 @@
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+ 
 
 #### I’m interested in the Web field, 🛞 CNC machining machine and interesting Books; i am currently seeking a position in the field of Software Engineer or Computer Science where i can utilize my skills and experiences to make a positive impact. Adaptable Data Analyst proficient and Cybersecurity (DPO), with some knowledge in database and visualization.
 
-##### I’m currently learning Full Stack Developer and my journey is about making a meaningful impact with technology, I’m looking to collaborate on good and strong project..
+##### I’m currently learning Full Stack Developer and my journey is about making a meaningful impact with technology, I’m looking to collaborate on good and strong project...
