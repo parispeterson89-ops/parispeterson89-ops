@@ -2,6 +2,7 @@
 
 I'm a passionate Full Stack Developer with experience in building scalable web applications.
 
+
 ## 🛠️ Technologies & Tools
 - **Frontend:** HTML, CSS, JavaScript, React, Vue.js
 - **Backend:** Node.js, Express, Python, Django
@@ -14,6 +15,9 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
 - Serverless Architecture
 - DPO (cyber security)
 - Data Science
+
+![Description](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)
+
 
 ### I am a coding enthusiast, emerging Tech enthusiast, passionate about creative solutions, adept at simplifying intricate problems into elegant solutions; From coding to driving innovation projects and exercising my ability how to create a flexible portfolio!
 
@@ -53,4 +57,15 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
 
 
 
+![WahooAnimation](https://media.tenor.com/images/5b5e0d4d4bff104bf70e9d9b000f8cf2/giphy.gif)
+
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=parispeterson89-ops)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![GitHub followers](https://img.shields.io/github/followers/parispeterson89-ops?style=social)
+
+
+![GitHub stars](https://img.shields.io/github/stars/parispeterson89-ops?style=social)
