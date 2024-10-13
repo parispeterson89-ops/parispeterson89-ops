@@ -1,5 +1,8 @@
 # Hello! I'm Peterson Paris👋
 
+
+![1000595946](https://github.com/user-attachments/assets/47fea4dd-752f-46f8-b3c9-98a6c5e52fb6)
+
 I'm a passionate Full Stack Developer with experience in building scalable web applications.
 
 
