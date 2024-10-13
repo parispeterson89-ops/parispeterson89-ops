@@ -63,7 +63,6 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
 
 
 
-![WahooAnimation](https://media.tenor.com/images/5b5e0d4d4bff104bf70e9d9b000f8cf2/giphy.gif)
 
 
 
