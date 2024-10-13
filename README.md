@@ -22,7 +22,7 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
 ![Description](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)
 
 
-### I am a coding enthusiast, emerging Tech enthusiast, passionate about creative solutions, adept at simplifying intricate problems into elegant solutions; From coding to driving innovation projects and exercising my ability how to create a flexible portfolio!
+## I am a coding enthusiast, emerging Tech enthusiast, passionate about creative solutions, adept at simplifying intricate problems into elegant solutions; From coding to driving innovation projects and exercising my ability how to create a flexible portfolio!
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,11 +38,11 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
  
 ![-5834588217372947952_120](https://github.com/user-attachments/assets/c5acca02-f8da-4335-b2cd-aae4ab4a4116)
 
-#### I’m interested in the Web field, 🛞 CNC machining machine, and interesting Books; I am currently seeking a position in Computer Science where I can utilize my skills and experiences to positive impact. Adaptable Data Analyst  proficient in Cybersecurity, with some knowledge in database and visualization.
+### I’m interested in the Web field, 🛞 CNC machining machine, and interesting Books; I am currently seeking a position in Computer Science where I can utilize my skills and experiences to positive impact. Adaptable Data Analyst  proficient in Cybersecurity, with some knowledge in database and visualization.
 
 ![kvuchov](https://github.com/user-attachments/assets/2a88b41b-761c-4721-ba95-5e6e885e969d)
 
-##### I’m currently learning Full Stack Developer and my journey is about making a meaningful impact with technology, I’m looking to collaborate on a good and strong project...
+### I’m currently learning Full Stack Developer and my journey is about making a meaningful impact with technology, I’m looking to collaborate on a good and strong project...
 
 ## 📫 Get in Touch
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/petersonbigniew.paris?mibextid=ZbWKwL)
