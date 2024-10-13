@@ -36,8 +36,11 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
  
+![-5834588217372947952_120](https://github.com/user-attachments/assets/c5acca02-f8da-4335-b2cd-aae4ab4a4116)
 
 #### I’m interested in the Web field, 🛞 CNC machining machine, and interesting Books; I am currently seeking a position in Computer Science where I can utilize my skills and experiences to positive impact. Adaptable Data Analyst  proficient in Cybersecurity, with some knowledge in database and visualization.
+
+![kvuchov](https://github.com/user-attachments/assets/2a88b41b-761c-4721-ba95-5e6e885e969d)
 
 ##### I’m currently learning Full Stack Developer and my journey is about making a meaningful impact with technology, I’m looking to collaborate on a good and strong project...
 
