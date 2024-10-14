@@ -1,4 +1,6 @@
-# Hello! I'm Peterson Paris👋
+# Hello! I'm Peterson Paris👋                                                              ![image](https://github.com/user-attachments/assets/3481c21b-ded3-4657-93ea-de08867514c9)
+
+
 
 
 ![1000595946](https://github.com/user-attachments/assets/47fea4dd-752f-46f8-b3c9-98a6c5e52fb6)
@@ -57,6 +59,9 @@
 ## Projects
 - [Portfolio](link)
 - [E-commerce App](link)
+                                                                                                 
+
+
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=parispeterson89-ops&show_icons=true)
@@ -73,4 +78,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/parispeterson89-ops?style=social)
 
 
-![GitHub stars](https://img.shields.io/github/stars/parispeterson89-ops?style=social)
+![GitHub stars](https://img.shields.io/github/stars/parispeterson89-ops?style=social) 
+
