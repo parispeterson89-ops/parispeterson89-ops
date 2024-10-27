@@ -119,11 +119,10 @@ Projects
 
 ![DOWLOADS](https://img.shields.io/github/downloads/parispeterson89-ops/parispeterson89-ops/total.svg)
 
-![COMMITS](https://img.shields.io/github/commits-since/parispeterson89-ops/{repo-name}/{version}.svg)
+![COMMITS](https://img.shields.io/github/commits-since/parispeterson89-ops/parispeterson89-ops/{version}.svg)
 
 ![RELEASE](https://img.shields.io/github/release/parispeterson89-ops/parispeterson89-ops.svg)
 
-![STARCHART](https://starchart.cc/parispeterson89-ops/parispeterson89-ops.svg) 
 
 ![WATCHER](https://img.shields.io/github/watchers/parispeterson89-ops/parispeterson89-ops.svg)
 ![Visitor Count](https://profile-counter.glitch.me/parispeterson89-ops/count.svg)
