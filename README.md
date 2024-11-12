@@ -94,7 +94,7 @@ Projects
 
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=parispeterson89-ops&show_icons=true)
+
 
 
 
@@ -115,7 +115,10 @@ Projects
 ![FORK](https://img.shields.io/github/forks/parispeterson89-ops/parispeterson89-ops.svg)
 
 
-![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=parispeterson89-ops&theme=blue-rainbow-yellow-green-red)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parispeterson89-ops&theme=shadow_green&layout=compact"width="50%"/>
+</p>  
+
 
 ![DOWLOADS](https://img.shields.io/github/downloads/parispeterson89-ops/parispeterson89-ops/total.svg)
 
@@ -129,7 +132,7 @@ Projects
 
 
 
- <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+ <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="80" height="80" alt="Description of the image">
 
 
 
