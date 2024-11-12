@@ -1,5 +1,9 @@
-## Hello! I'm PETERSON PARIS👋    ![image](https://github.com/user-attachments/assets/3481c21b-ded3-4657-93ea-de08867514c9)
+## Hello! I'm PETERSON PARIS👋   ![image](https://github.com/user-attachments/assets/3481c21b-ded3-4657-93ea-de08867514c9)
 </h2>
+
+
+
+
     
 
  
@@ -108,12 +112,20 @@ Projects
 ![GitHub followers](https://img.shields.io/github/followers/parispeterson89-ops?style=social)
 
 
+
+
+  
+
 ![GitHub stars](https://img.shields.io/github/stars/parispeterson89-ops?style=social) 
 
 ![ISSUES](https://img.shields.io/github/issues-pr-closed/parispeterson89-ops/parispeterson89-ops.svg)
 
 ![FORK](https://img.shields.io/github/forks/parispeterson89-ops/parispeterson89-ops.svg)
 
+<p align="center">
+  <a href="https://github.com/parispeterson89-ops?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=parispeterson89-ops&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="50%" alt="@parispeterson89-ops's github-readme-stats">
+  </a>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parispeterson89-ops&theme=shadow_green&layout=compact"width="50%"/>
