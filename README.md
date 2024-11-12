@@ -115,7 +115,7 @@ Projects
 ![FORK](https://img.shields.io/github/forks/parispeterson89-ops/parispeterson89-ops.svg)
 
 
-![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=parispeterson89-ops&theme=green-red)
+![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=parispeterson89-ops&theme=blue-rainbow-yellow-green-red)
 
 ![DOWLOADS](https://img.shields.io/github/downloads/parispeterson89-ops/parispeterson89-ops/total.svg)
 
