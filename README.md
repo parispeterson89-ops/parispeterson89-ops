@@ -294,7 +294,7 @@ width="40" /> **Get in Touch**  📫
  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/petersonbigniew.paris?mibextid=ZbWKwL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/parispeterson89?igsh=azhxYmJudG02M2o2)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](parispeterson89@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parispeterson89@gmail.com)
 
  
 
