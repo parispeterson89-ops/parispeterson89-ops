@@ -262,16 +262,17 @@ width="50" />
 - ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Description](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)
-
-
-## I am a coding enthusiast, emerging Tech enthusiast, passionate about creative solutions, adept at simplifying intricate problems into elegant solutions; From coding to driving innovation projects and exercising my ability how to create a flexible portfolio!
 
 
 
-
-
-
+<div style="display: flex; justify-content: center; align-items: center; text-align: center; width: 100%;">
+  <div style="display: flex; justify-content: center; align-items: center; margin-right: 80px;">
+    <img src="https://github.com/user-attachments/assets/cec10b22-fb3f-4852-8288-f4779fa00737" alt="head-3907" width="450"/>
+  </div>
+  <div>
+    <h3>I am a coding enthusiast, emerging Tech enthusiast, passionate about creative solutions, <br> adept at simplifying intricate problems into elegant solutions; <br> From coding to driving innovation projects and exercising my ability to create a flexible portfolio!</h3>
+  </div>
+</div>
 
 
  
@@ -349,14 +350,15 @@ Projects
 
 ![ISSUES](https://img.shields.io/github/issues-pr-closed/parispeterson89-ops/parispeterson89-ops.svg)
 
-![FORK](https://img.shields.io/github/forks/parispeterson89-ops/parispeterson89-ops.svg)
 
+![FORK](https://img.shields.io/github/forks/parispeterson89/README.svg)
 
 
 <p align="right">
   <a href="https://github.com/parispeterson89-ops?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=parispeterson89-ops&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&MORETEAMATE" width="50%" alt="@parispeterson89-ops's github-readme-stats">
   </a>
+
 
 
 
