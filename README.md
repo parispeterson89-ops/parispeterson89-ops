@@ -323,10 +323,11 @@ Projects
 
 - [Portfolio](https://site-gamesshop-self-six.vercel.app/)
 - [E-commerce App](link)
-- [OCR CNH]
-- [OCR Lista Escolar]
-- [Reconhecimento de Atacantes]
-- [RealEstate-SaaS]
+- [RealEstate-SaaS](link)
+- OCR CNH
+- OCR Lista Escolar
+- Reconhecimento de Atacantes
+
                                                                                                  
 
 
