@@ -323,6 +323,10 @@ Projects
 
 - [Portfolio](https://site-gamesshop-self-six.vercel.app/)
 - [E-commerce App](link)
+- [OCR CNH](link)
+- [OCR Lista Escolar](link)
+- [Reconhecimento de Atacantes](link)
+- [RealEstate-SaaS](link)
                                                                                                  
 
 
@@ -397,3 +401,205 @@ Projects
 
 
 [![ASK ME ANYTHINGS](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://chat.whatsapp.com/EPf2mLveS6xApJR7j5Z4Co)
+
+
+
+
+
+# trufflehog
+## Projeto Base: Explorando Colaboração e Markdown
+- Git
+- GitHub
+  
+ :tv: Demo
+
+
+
+![GitHub scanning demo](https://storage.googleapis.com/truffle-demos/non-interactive.svg)
+
+
+
+```bash
+
+docker run --rm -it -v "$PWD:/pwd" trufflesecurity/trufflehog:latest github --org=trufflesecurity
+
+```
+
+
+
+# :floppy_disk: Installation
+
+
+
+Several options available for you:
+
+
+
+### MacOS users
+
+
+
+```bash
+
+brew install trufflehog
+
+```
+
+
+
+### Docker:
+
+
+
+<sub><i>_Ensure Docker engine is running before executing the following commands:_</i></sub>
+
+
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;Unix
+
+
+
+```bash
+
+docker run --rm -it -v "$PWD:/pwd" trufflesecurity/trufflehog:latest github --repo https://github.com/trufflesecurity/test_keys
+
+```
+
+
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;Windows Command Prompt
+
+
+
+```bash
+
+docker run --rm -it -v "%cd:/=\%:/pwd" trufflesecurity/trufflehog:latest github --repo https://github.com/trufflesecurity/test_keys
+
+```
+
+
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;Windows PowerShell
+
+
+
+```bash
+
+docker run --rm -it -v "${PWD}:/pwd" trufflesecurity/trufflehog github --repo https://github.com/trufflesecurity/test_keys
+
+```
+
+
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;M1 and M2 Mac
+
+
+
+```bash
+
+docker run --platform linux/arm64 --rm -it -v "$PWD:/pwd" trufflesecurity/trufflehog:latest github --repo https://github.com/trufflesecurity/test_keys
+
+```
+
+
+
+### Binary releases
+
+
+
+```bash
+
+Download and unpack from https://github.com/trufflesecurity/trufflehog/releases
+
+```
+
+
+
+### Compile from source
+
+
+
+```bash
+
+git clone https://github.com/trufflesecurity/trufflehog.git
+
+cd trufflehog; go install
+
+```
+
+
+
+### Using installation script
+
+
+
+```bash
+
+curl -sSfL https://raw.githubusercontent.com/trufflesecurity/trufflehog/main/scripts/install.sh | sh -s -- -b /usr/local/bin
+
+```
+
+
+
+### Using installation script, verify checksum signature (requires cosign to be installed)
+
+
+
+```bash
+
+curl -sSfL https://raw.githubusercontent.com/trufflesecurity/trufflehog/main/scripts/install.sh | sh -s -- -v -b /usr/local/bin
+
+```
+
+
+
+### Using installation script to install a specific version
+
+
+
+```bash
+
+curl -sSfL https://raw.githubusercontent.com/trufflesecurity/trufflehog/main/scripts/install.sh | sh -s -- -b /usr/local/bin <ReleaseTag like v3.56.0>
+
+```
+
+
+
+# :closed_lock_with_key: Verifying the artifacts
+
+
+
+Checksums are applied to all artifacts, and the resulting checksum file is signed using cosign.
+
+
+
+You need the following tool to verify signature:
+
+
+
+- [Cosign](https://docs.sigstore.dev/cosign/system_config/installation/)
+
+
+
+parispeterson89.md
+Projeto Base: AWS Rekognition - Detectando Celebridades em Imagens
+AWS
+Amazon Rekognition
+Inteligência Artificial (IA)
+https://github.com/parispeterson89-ops/nexa-analise-avancada-de-imagens-e-texto-com-ia-na-aws.git
+
+🪸
+
+
+Paris Peterson 😃
+<hr />
+Projeto Base: Transcrevendo uma Imagem em Texto com AWS Textract
+Amazon Textract
+AWS
+Inteligência Artificial (IA)
+Nexa - Análise Avançada de Imagens e Texto com IA na AWS
+
+
+Contém os projetos desenvolvidos durante o curso Nexa - Análise Avançada de Imagens e Texto com IA na AWS.
+
+
