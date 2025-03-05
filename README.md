@@ -586,7 +586,7 @@ Projeto Base: AWS Rekognition - Detectando Celebridades em Imagens
 AWS
 Amazon Rekognition
 Inteligência Artificial (IA)
-https://github.com/parispeterson89-ops/nexa-analise-avancada-de-imagens-e-texto-com-ia-na-aws.git
+[NEXA(https://github.com/parispeterson89-ops/nexa-analise-avancada-de-imagens-e-texto-com-ia-na-aws.git)
 
 🪸
 
