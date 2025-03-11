@@ -396,6 +396,15 @@ Projects
 
 
 
+## Contributions
+
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=parispeterson89-ops&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" style="border: 2px solid #f8f9fa; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7); padding: 10px; background: linear-gradient(145deg, #2c2c2c, #3a3a3a);" />
+</div>
+
+
+
+
 
 [![ASK ME ANYTHINGS](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://chat.whatsapp.com/EPf2mLveS6xApJR7j5Z4Co)
 
@@ -585,18 +594,9 @@ Amazon Rekognition
 Inteligência Artificial (IA)
 [NEXA](https://github.com/parispeterson89-ops/nexa-analise-avancada-de-imagens-e-texto-com-ia-na-aws.git)
 
-🪸
+🪸 😃
 
-
-Paris Peterson 😃
 <hr />
-Projeto Base: Transcrevendo uma Imagem em Texto com AWS Textract
-Amazon Textract
-AWS
-Inteligência Artificial (IA)
-Nexa - Análise Avançada de Imagens e Texto com IA na AWS
 
-
-Contém os projetos desenvolvidos durante o curso Nexa - Análise Avançada de Imagens e Texto com IA na AWS.
 
 
